@@ -1,4 +1,4 @@
-﻿| [Live User Filter](https://github.com/lana-20/50Projects50Days/tree/main/LiveUserFilter) | [Live Demo]() |
+﻿| [Live User Filter](https://github.com/lana-20/50Projects50Days/tree/main/LiveUserFilter) | [Live Demo](https://lana-20.github.io/live-user-filter/) |
  |----|----|
 
 In this project, I am creating a live user filter where I am fetching a bunch of users from the Random User Generator API (https://randomuser.me/).
